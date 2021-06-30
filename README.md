@@ -1,2 +1,2 @@
 # Pythogorean-triplets
-A wonderful chat app to chat with all your friends...Enjoy 👍
+A C++ program to check whether three numbers are Pythogorean triplets or not... Useful for several mathematical calculations...
