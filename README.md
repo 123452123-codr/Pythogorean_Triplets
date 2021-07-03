@@ -3,14 +3,16 @@ A C++ program to check whether three numbers are Pythogorean triplets or not... 
 
 Source code : 
 
+
+<font face="Consolas">
 #include<iostream.h>
 <br>
 #include<conio.h>
-
+<br>
 void main()
-
+<br>
 {
-
+<br>
 clrscr();
 
 long int a,b,c;
@@ -78,3 +80,4 @@ cout<<"No";
 getch();
 
 }
+  </font>
