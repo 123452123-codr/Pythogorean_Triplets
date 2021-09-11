@@ -1,6 +1,6 @@
-#include<iostream.h>
-#include<conio.h>
-void main()
+#include<iostream>
+using namespace std;
+int main()
 {
     clrscr();
     long int a,b,c;
@@ -43,5 +43,5 @@ void main()
       }
     }
   }
-  getch();
+  return 0;
 }
